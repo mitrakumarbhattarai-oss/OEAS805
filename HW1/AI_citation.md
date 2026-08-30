@@ -2,6 +2,7 @@
 
 **Tool:** ChatGPT  
 **Provider:** OpenAI  
+**Model/Version:** GPT-5.6 Sol 
 **Purpose:** I used ChatGPT for step-by-step guidance and explanations while completing this Git and GitHub homework.
 
 ## Full Dialogue
